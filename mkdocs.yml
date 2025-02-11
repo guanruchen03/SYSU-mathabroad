@@ -1,4 +1,43 @@
+
+
 site_name: SYSU mathabroad
 site_url:   https://mydomain.org/mysite
+
 theme:
   name: material
+  palette:
+    primary: teal
+    accent: indigo
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.indexes
+    - navigation.footer
+    - navigation.instant.prefetch
+    - navigation.expand
+    - navigation.prune
+    - toc.integrate 
+    - search.suggest
+plugins:
+  - search
+
+nav:
+  - 主页: index.md
+  - 申请数据库:
+    - 提示:
+      - database.md
+    - 2021级: 
+      - G Chen: gchen.md
+      - testguy.md
+      - guy2.md
+  - resource.md
+  - 文章: 
+    - 提示: 
+      - blogs.md
+  - joinus.md
+  - friend.md
+ 
+
