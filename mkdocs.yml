@@ -26,6 +26,7 @@ theme:
 plugins:
   - search
 
+
 nav:
   - 主页: index.md
   - 申请数据库:
@@ -42,5 +43,5 @@ nav:
   - joinus.md
   - friend.md
 
-repo_url: https://guanruchen03.github.io/sysu-mathabroad
+repo_url: https://github.com/guanruchen03/sysu-mathabroad/
 repo_name: sysu-mathabroad
