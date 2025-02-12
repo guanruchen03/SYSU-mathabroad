@@ -17,8 +17,8 @@ TOFEL 101(22) IELTS 7(6.5)
 中大二院生信组RA半年+1发表R包+单细胞基因组学方向暑研半年
 
 ## 申请结果
-
+申请结果尚未全部出来
 ### AD：
-Vanderbilt MS（80%奖），UCLA MS，UIowa MS(有全奖)，UMN MS，Emory MSPH
+Vanderbilt MS，UCLA MS，UIowa MS，UMN MS，Emory MSPH
 ### REJ：
 JHU ScM
